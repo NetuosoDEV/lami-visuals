@@ -19,12 +19,12 @@ To install:
 Building:
  * JDK 25
  * Gradle will download Minecraft, Fabric API on first run.
- *
+   
 bash
  ./gradlew build
 
  * Jar will be in build/libs/. To run development client:
- *
+   
 bash
  ./gradlew runClient
 
