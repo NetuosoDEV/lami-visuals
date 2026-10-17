@@ -1,0 +1,39 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.client.mixins",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MixinBossBarHud",
+    "MixinCamera",
+    "MixinClientPlayerInteractionManager",
+    "MixinClientWorldProperties",
+    "MixinGameRenderer",
+    "MixinHandledScreen",
+    "MixinHeldItemRenderer",
+    "MixinInGameHud",
+    "MixinInGameOverlayRenderer",
+    "MixinKeyboard",
+    "MixinLivingEntity",
+    "MixinMinecraftClient",
+    "MixinWorld",
+    "MixinMinecraftSession",
+    "MixinEnvironmentProbe",
+    "MixinLevelRendererLate",
+    "MixinSkyRenderer",
+    "MixinAbstractClientPlayer",
+    "DeathScreenAccessor",
+    "MixinChatComponent",
+    "MixinChatScreen",
+    "MixinPlayerTabOverlay",
+    "MinecraftUserAccessor",
+    "MixinFontTexture",
+    "MixinGlyphRenderState",
+    "MixinClientPacketListener",
+    "MixinLevelRendererChunks",
+    "MixinMouseHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "lamivisuals",
+  "version": "${version}",
+  "name": "LamiVisuals",
+  "description": "Client-side PvP visuals / HUD mod",
+  "authors": ["burmalda"],
+  "license": "GPL-3.0-only",
+  "icon": "assets/lamivisuals/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["ru.client.core.ClientMod"]
+  },
+  "mixins": ["lamivisuals.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

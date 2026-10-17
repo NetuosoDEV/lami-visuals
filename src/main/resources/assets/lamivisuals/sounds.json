@@ -1,0 +1,122 @@
+{
+  "ui.button_click": {
+    "sounds": [
+      "lamivisuals:ui/button_click"
+    ]
+  },
+  "ui.menu_open": {
+    "sounds": [
+      "lamivisuals:ui/menu_open"
+    ]
+  },
+  "ui.menu_close": {
+    "sounds": [
+      "lamivisuals:ui/menu_close"
+    ]
+  },
+  "ui.tab_switch": {
+    "sounds": [
+      "lamivisuals:ui/tab_switch"
+    ]
+  },
+  "ui.toggle_on": {
+    "sounds": [
+      "lamivisuals:ui/toggle_on"
+    ]
+  },
+  "ui.toggle_off": {
+    "sounds": [
+      "lamivisuals:ui/toggle_off"
+    ]
+  },
+  "ui.slider_tick": {
+    "sounds": [
+      "lamivisuals:ui/slider_tick"
+    ]
+  },
+  "ui.slider_loop": {
+    "sounds": [
+      "lamivisuals:ui/slider_loop"
+    ]
+  },
+  "hit.bonk": {
+    "sounds": [
+      "lamivisuals:hit/bonk"
+    ]
+  },
+  "hit.punch": {
+    "sounds": [
+      "lamivisuals:hit/punch"
+    ]
+  },
+  "hit.spark": {
+    "sounds": [
+      "lamivisuals:hit/spark"
+    ]
+  },
+  "hit.slash": {
+    "sounds": [
+      "lamivisuals:hit/slash"
+    ]
+  },
+  "hit.pop": {
+    "sounds": [
+      "lamivisuals:hit/pop"
+    ]
+  },
+  "hit.coin": {
+    "sounds": [
+      "lamivisuals:hit/coin"
+    ]
+  },
+  "hit.glass": {
+    "sounds": [
+      "lamivisuals:hit/glass"
+    ]
+  },
+  "hit.laser": {
+    "sounds": [
+      "lamivisuals:hit/laser"
+    ]
+  },
+  "hit.clap": {
+    "sounds": [
+      "lamivisuals:hit/clap"
+    ]
+  },
+  "hit.retro": {
+    "sounds": [
+      "lamivisuals:hit/retro"
+    ]
+  },
+  "hit.wood": {
+    "sounds": [
+      "lamivisuals:hit/wood"
+    ]
+  },
+  "hit.boom": {
+    "sounds": [
+      "lamivisuals:hit/boom"
+    ]
+  },
+  "hit.victory": {
+    "sounds": [
+      "lamivisuals:hit/victory"
+    ]
+  },
+  "hit.soul": {
+    "sounds": [
+      "lamivisuals:hit/soul"
+    ]
+  },
+  "hit.shatter": {
+    "sounds": [
+      "lamivisuals:hit/shatter"
+    ]
+  },
+  "fx.streak": {
+    "sounds": [
+      "lamivisuals:fx/streak"
+    ]
+  }
+}
